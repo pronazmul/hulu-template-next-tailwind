@@ -2,7 +2,8 @@
  <h1 align="center">Hulu App Clone NextJs and TailwindCSS</h1> 
 </p>
 
-![Screenshot 2021-11-05 at 23-22-10 HULU 2 0](https://user-images.githubusercontent.com/58470993/140552473-29cbff7f-4c79-46bf-aca0-bfb888777289.png)
+![Hulu clone by Nazmul huda](https://user-images.githubusercontent.com/58470993/140553423-1bdd6ad3-96e4-46fa-9b45-557e6ba05951.png)
+
 
 [Live Link 😎](https://hulu-template-next-tailwind.vercel.app/)
 
